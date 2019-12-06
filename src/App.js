@@ -9,9 +9,9 @@ function App() {
     <ThemeProvider theme={theme}>
       <div className="App">
         <Header />
-        <div>
+
           <Home />
-        </div>
+
       </div>
     </ThemeProvider>
   );
